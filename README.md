@@ -32,6 +32,9 @@ N/A
 
 # Credits: 
 Max Chaidez
+mdn web docs- code examples
+W3schools online- code examples
+Third Party Tutor Assistance
 
 # Liscense
 MIT License: https://github.com/Maxxxc1/DaySync/blob/main/LICENSE
