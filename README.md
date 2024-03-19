@@ -21,10 +21,6 @@ N/A
 4.- Google Fonts: adding font-family and font-size from this website to the web application
 
 
-# API's Used
-
-
-
 # Usage
 
 
