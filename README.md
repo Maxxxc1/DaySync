@@ -23,7 +23,7 @@ N/A
 
 # Usage
 
-
+Daysync enables you to allocate time for tasks and save crucial information for each hour of the 9AM-5PM day, ensuring you complete each day as efficiently and completely as possible.
 
 # Screenshot
 
