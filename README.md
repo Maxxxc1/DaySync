@@ -25,6 +25,11 @@ N/A
 
 Daysync enables you to allocate time for tasks and save crucial information for each hour of the 9AM-5PM day, ensuring you complete each day as efficiently and completely as possible.
 
+# Links
+
+Repo: https://github.com/Maxxxc1/DaySync
+Deployed: https://maxxxc1.github.io/DaySync/
+
 # Screenshot
 
 ![alt text](firstscreenshot.jpeg)
